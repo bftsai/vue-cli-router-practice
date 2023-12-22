@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:bftsai/bftsai.github.io.git master
 
 # if you are deploying to https://bftsai.github.io/vue-cli-router-practice
-# git push -f git@github.com:bftsai/vue-cli-router-practice.git master:gh-pages
+git push -f git@github.com:bftsai/vue-cli-router-practice.git master:gh-pages
 
 cd -
