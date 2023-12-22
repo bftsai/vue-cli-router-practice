@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_cli_practice"]=self["webpackChunkvue_cli_practice"]||[]).push([[314],{314:function(n,u,c){c.r(u),c.d(u,{default:function(){return f}});var e=c(3396);const r=(0,e._)("h2",null,"404",-1),t=(0,e._)("p",null,"這頁找不到",-1);function l(n,u){return(0,e.wg)(),(0,e.iD)(e.HY,null,[r,t],64)}var i=c(89);const a={},s=(0,i.Z)(a,[["render",l]]);var f=s}}]);
+//# sourceMappingURL=314.c2cd0d31.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_cli_practice"]=self["webpackChunkvue_cli_practice"]||[]).push([[927],{8927:function(e,t,c){c.r(t),c.d(t,{default:function(){return o}});var r=c(3396);function n(e,t,c,n,a,s){return(0,r.wg)(),(0,r.iD)("div")}var a=c(1076),s={created(){const e=this.$route.params.id;a.Z.get(`https://randomuser.me/api/?seed=${e}`).then((e=>{console.log(e)})).catch((e=>{console.log(e)}))}},u=c(89);const i=(0,u.Z)(s,[["render",n]]);var o=i}}]);
+//# sourceMappingURL=927.c4eca9c2.js.map

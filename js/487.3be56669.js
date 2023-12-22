@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_cli_practice"]=self["webpackChunkvue_cli_practice"]||[]).push([[487],{6487:function(e,c,n){function r(e,c){return" 元件 C "}n.r(c),n.d(c,{default:function(){return a}});var u=n(89);const t={},i=(0,u.Z)(t,[["render",r]]);var a=i}}]);
+//# sourceMappingURL=487.3be56669.js.map
